@@ -22,7 +22,7 @@ The Unique Integer Processor is a  Javascript program designed to process text f
 Execute the script using the following command:
 1. Clone the repository
 ```bash
-git clone https://github.com/Jumulisa/UniqueInt.git
+git clone https://github.com/ikalisa1/UniqueInt.git
 ```
 2. Navigate to the directory
 ```bash
